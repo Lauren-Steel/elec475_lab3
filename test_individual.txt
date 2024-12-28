@@ -1,0 +1,3 @@
+python test_individual.py --alexnet_model alexnet_results/alexnet_model.pth    
+python test_individual.py --resnet18_model resnet18_results/resnet18_model.pth
+python test_individual.py --vgg16_model vgg16_results/vgg16_model.pth    

@@ -1,0 +1,2 @@
+python test_ensemble.py --alexnet_model alexnet_results/alexnet_model.pth --resnet18_model resnet18_results/resnet18_model.pth --vgg16_model vgg16_results/vgg16_model.pth
+python test_ensemble.py --alexnet_model alexnet_results/alexnet_epoch5.pth --resnet18_model resnet18_results/resnet18_epoch5.pth --vgg16_model vgg16_results/vgg16_model.pth
